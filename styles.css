@@ -1,0 +1,22 @@
+body{	background: honeydew;
+	color:gray;}
+        	
+a{	font-family:Bookman Old Style;	
+	color:blue;
+	font-size:15pt;
+	text-decoration:none;}
+
+a:hover{	background:black;	
+	color:honeydew;}
+
+h1{	font-family : "CASTELLAR"  ;
+	font-size:50pt;}
+
+h2{	font-family : "Arial"  ;
+	font-size:25pt;}
+
+p{	font-family : "Arial"  ;
+	font-size:25pt;}
+
+dl{	font-size:25pt;}
+
